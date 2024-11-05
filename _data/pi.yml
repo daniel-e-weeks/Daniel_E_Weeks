@@ -1,0 +1,22 @@
+- name: Daniel E. Weeks, Ph.D.
+  photo: headshot.jpg
+  info: Daniel E. Weeks, Professor of Human Genetics, University of Pittsburgh
+  email: weeks@pitt.edu
+  github: https://github.com/DanielEWeeks
+  # researchgate: https://www.researchgate.net/
+  scholar: https://scholar.google.com/citations?sortby=pubdate&hl=en&user=oA712DgAAAAJ
+  cv: cv/Vitae_Weeks_18Jun2024.pdf
+  website: https://sites.pitt.edu/~weeks/
+  orcid: https://orcid.org/0000-0001-9410-7228
+  university: https://www.publichealth.pitt.edu/directory/daniel-weeks
+  mastodon: https://fediscience.org/@StatGenDan
+  # Change the items in "education" you have (up to 6)
+  education:
+    [
+      "1988: Ph.D., Biomathematics, University of California, Los Angeles",
+      "1985: M.S. Biomathematics, University of California, Los Angeles",
+      "1983: B.A. summa cum laude, Biology and Mathematics, Colby College",
+    ]
+
+  educationshort:
+    ["1988: Ph.D. Biomathematics, UCLA", "1985: M.S. Biomathematics, UCLA","1983: B.A. Biology & Mathematics, Colby"]

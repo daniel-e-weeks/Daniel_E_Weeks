@@ -1,0 +1,109 @@
+- name: Deborah L. Brown
+# photo: file-person-fill.png
+  duration: 1994 - M.S., Human Genetics
+  info: Strategies for genomic searching using the affected pedigree member method of linkage analysis
+# email: exampleemail@gmail.com
+
+- name: Sean Davis
+# photo: file-person-fill.png
+  duration: 1997 - Ph.D., Human Genetics
+  info: Nonparametric Statistics in Linkage Analysis
+  website: https://seandavi.github.io/
+  linkedin: https://www.linkedin.com/in/seandavi/
+
+- name: Hui-Ju Tsai
+# photo: file-person-fill.png
+  duration: 2004 - Ph.D., Human Genetics
+  info: Comparison of methods incorporating covariates into affected sib pair linkage analysis
+  website: https://ph.nhri.edu.tw/format2/hjtsai20220812/
+
+- name: Feng Dai
+# photo: file-person-fill.png
+  duration: 2004 - M.S., Biostatistics
+  info: Imprinting in variance components-based linkage analysis
+  linkedin: https://www.linkedin.com/in/feng-d-8678a71a/
+  
+- name: Amrita Ray
+# photo: file-person-fill.png
+  duration: 2007 - Ph.D., Human Genetics
+  info: Affected relative pair linkage statistics that model relationship uncertainty
+  linkedin: https://www.linkedin.com/in/amritarayin/
+  
+- name: Feng Dai
+# photo: file-person-fill.png
+  duration: 2007 - Ph.D., Biostatistics
+  info: "Variance components models in statistical genetics: extensions and applications"
+  linkedin: https://www.linkedin.com/in/feng-d-8678a71a/
+  
+- name: Jóhanna Jakobsdóttir
+# photo: file-person-fill.png
+  duration: 2009 - Ph.D., Biostatistics
+  info: Genetics of age-related maculopathy & score statistics for X-linked quantitative trait loci
+  website: https://english.hi.is/staff/johannaj
+  
+- name: Jia Jia
+# photo: file-person-fill.png
+  duration: 2015 - Ph.D., Biostatistics
+  info: Association analysis between binary traits and common or rare genetic variants on family-based data
+  linkedin: https://www.linkedin.com/in/jia-j-6018ab25/
+  
+- name: Yingda Jiang
+# photo: file-person-fill.png
+  duration: 2015 - Ph.D., Biostatistics
+  info: Gene-based association testing of dichotomous traits using generalized functional linear mixed models for family data
+  linkedin: https://www.linkedin.com/in/yingda-jiang/
+  
+- name: Ying Shan
+# photo: file-person-fill.png
+  duration: 2016 - Ph.D., Biostatistics
+  info: Statistical methods for genetic risk confidence intervals, Bayesian disease risk prediction, and estimating mutation screening saturation
+  linkedin: https://www.linkedin.com/in/ying-shan-41671656/ 
+
+- name: Yunqi Li
+# photo: file-person-fill.png
+  duration: 2018 - M.S., Human Genetics
+  info: Epigenome-wide association study of recovery outcomes of traumatic brain injury patients 
+  website: https://profiles.sc-ctsi.org/yunqi.li 
+    
+- name: Richard J. Biedrzycki
+# photo: file-person-fill.png
+  duration: 2018 - M.S., Human Genetics
+  info:  Genome-wide association studies, false positives, and how we interpret them
+  website: https://koldamovalefterovlab.pitt.edu/rich.html
+  
+- name: Winston W. H. Eng
+# photo: file-person-fill.png
+  duration: 2018 - M.S., Biostatistics
+  info: Exploring the genetic characteristics underlying a multidimensional latent chemotherapy symptom burden 
+  linkedin: https://www.linkedin.com/in/winstoneng/ 
+  
+- name: Annie Arockiaraj
+# photo: file-person-fill.png
+  duration: 2019 - M.S., Human Genetics
+  info:  Epigenome-wide association studies in aneurysmal subarachnoid hemorrhage patients 
+  linkedin: https://www.linkedin.com/in/anniearockiaraj/
+  
+- name: Chen’Ao Qian
+# photo: file-person-fill.png
+  duration: 2020 - M.S., Biostatistics
+  info: Genome-wide association studies in Samoans give insight into obesity by investigating skinfold thickness 
+  linkedin: https://www.linkedin.com/in/chenao-q-88b438148/   
+
+- name: Laura Stackhouse
+# photo: file-person-fill.png
+  duration: 2022 - M.S., Human Genetics
+  info: CREBRF Missense Variant rs373863828 and Relative Grip Strength 
+  linkedin: https://www.linkedin.com/in/laura-stackhouse-102507146/  
+  
+- name: Kaitlin Kirkpatrick Heimke
+# photo: file-person-fill.png
+  duration: 2022 - M.P.H. Public Health Genetics
+  info:  Association Between BDNF DNA Methylation and Depression and Anxiety in Postmenopausal Individuals with Breast Cancer 
+  linkedin: https://www.linkedin.com/in/kaitlin-kirkpatrick-97a07a100/ 
+  
+- name: Amanda Koloskee
+# photo: file-person-fill.png
+  duration: 2023 - M.S. Human Genetics
+  info: Effect of Exercise on DNA Methylation Age Acceleration in Breast Cancer Patients Undergoing Aromatase Inhibitor Therapy
+  website: https://www.theleslielab.org/people
+  linkedin: https://www.linkedin.com/in/amanda-koloskee-142444180/  
